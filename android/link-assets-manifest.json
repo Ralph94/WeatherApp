@@ -1,0 +1,17 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "components/assets/fonts/DancingScript-VariableFont_wght.ttf",
+      "sha1": "f6ef1641594430e8367d9c26819a900c879b8f35"
+    },
+    {
+      "path": "components/assets/fonts/Macondo-Regular.ttf",
+      "sha1": "2a5e9c75e3c9c13e610398d8a2728d8176dd62c8"
+    },
+    {
+      "path": "components/assets/fonts/RobotoSlab-VariableFont_wght.ttf",
+      "sha1": "79e62139cca56d6e8678809c09d0f218e2beb47f"
+    }
+  ]
+}
